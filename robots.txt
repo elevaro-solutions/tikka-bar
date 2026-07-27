@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tikka-bar.elevaro.website/sitemap.xml
